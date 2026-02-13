@@ -125,9 +125,9 @@ Currently exploring backend (Node.js) and frontend (React/TypeScript) opportunit
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andries16&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andries16&show_icons=true&theme=dark&hide_border=true)](https://github.com/Andries16)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andries16&layout=compact&theme=dark&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andries16&layout=compact&theme=dark&hide_border=true)](https://github.com/Andries16?tab=repositories)
 
 </div>
 
