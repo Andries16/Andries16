@@ -8,7 +8,7 @@ Building scalable, strongly-typed web platforms with a focus on clean architectu
 
 ## 💼 About Me
 
-I'm a full-stack developer with a passion for **TypeScript** and **clean architecture**. As co-founder of [oio.md](https://oio.md), I've built and scaled e-commerce platforms serving European markets. I'm systems-oriented, detail-focused, and driven by implementing robust solutions that prioritize code quality and maintainability.
+I'm a full-stack developer with a passion for **TypeScript** and **clean architecture**. I'm systems-oriented, detail-focused, and driven by implementing robust solutions that prioritize code quality and maintainability.
 
 Currently exploring backend (Node.js) and frontend (React/TypeScript) opportunities while building innovative digital products.
 
